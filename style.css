@@ -164,6 +164,7 @@ color: #454545;
 .ustb h2{
     display: flex;
     flex-direction: column;
+    color: #454545;
 }
 .ustb p{
     color: grey;
@@ -237,6 +238,7 @@ color: #454545;
 .fdtb h2{
     display: flex;
     flex-direction: column;
+    color: #454545;
 }
 .fdtb p{
     color: grey;
@@ -259,4 +261,101 @@ color: #454545;
 }
 .fdimg{
     margin-left: 170px;
+}
+.tesla{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F7FA;
+    padding: 50px;
+}
+
+.tstb{
+    width: 600px;
+    margin-right: 100px;
+}
+.tsimg{
+    margin-left: 129px;
+}
+.tstb p{
+    color: grey;
+    margin-top: 20px;
+    font-style: 12px;
+}
+#British{
+    margin-top: 10px;
+    font-size: 8px;
+}
+.tstb h4{
+    color: #4CAF4F;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.meet{
+    margin-top: 70px;
+}
+.caring{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.caring p{
+    display: flex;
+    flex-direction: column;
+    
+text-align: center;
+margin-top: 20px;
+font-size: 12px;
+color: grey;
+}
+.caring h2{
+    color: #454545;
+
+
+}
+.c{
+    width: 100%;
+}
+.caringimg{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.last h2{
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #454545;
+    
+    margin-top: 60px;
+}
+.last{
+    background-color: #F5F7FA;
+    height: 300px;
+    width: 100%;
+    padding-top: 50px;
+}
+.last button{
+
+ background-color: #4CAF4F;  
+    color: white;
+    height: 50px;
+    padding: 14px 32px 14px 32px;
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    margin-left: 600px;
+}
+.footers{
+    background-color: #263238;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    width: 100%;
+    color: #ffff;
 }
